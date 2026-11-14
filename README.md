@@ -89,37 +89,6 @@ Visit GameSphere:
 
 The website is hosted using GitHub Pages.
 
-## 📦 Local Development
-
-Requirements:
-- Node.js
-- npm
-
-Clone the repository:
-
-```bash
-git clone https://github.com/gamesphereofficial/gamesphereofficial.github.io.git
-```
-
-Enter the project directory:
-
-```bash
-cd gamesphereofficial.github.io
-```
-
-Install dependencies:
-
-```bash
-npm ci
-```
-
-Build the website:
-
-```bash
-npm run build
-```
-
-The generated website files are placed in the `dist` directory.
 
 ## 🔐 Security and Privacy
 
